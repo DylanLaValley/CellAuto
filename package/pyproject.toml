@@ -1,0 +1,18 @@
+[project]
+name = "cellauto"
+version = "0.0.0"
+authors = [
+  { name="Dylan LaValley", email="dylan.lavalley73+cellauto@gmail.com" },
+]
+description = "Python library for Cellular Automata"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU GPLv3",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/DylanLaValley/CellAuto"
+Issues = "https://github.com/DylanLaValley/CellAuto/issues"
